@@ -104,7 +104,7 @@ def collectSubData(subm):
 #https://www.unixtimestamp.com/index.php > Use this to create your timestamps
 after = "1577836800" #Submissions after this timestamp (1577836800 = 01 Jan 20)
 before = "1607040000" #Submissions before this timestamp (1607040000 = 04 Dec 20)
-query = "Cyberpunk 2077" #Keyword(s) to look for in submissions
+query = "Cyberpunk" #Keyword(s) to look for in submissions
 sub = "Games" #Which Subreddit to search in
 
 #subCount tracks the no. of total submissions we collect
