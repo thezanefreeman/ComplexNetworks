@@ -10,6 +10,15 @@ The notebooks included in this repository rely on the Reddit comment data extrac
 **You must download and unzip the September, November, and December comment files
 from  before running any of the notebooks.
 
+When using the repo for analysis or replication, please run the notebooks in the following order
+
+1. subreddit_network
+2. political_subreddit_network
+3. political_user_network
+4. create_daily_networks
+5. day_to_day_analysis
+6. infected
+
 ## The Notebooks 
 
 Below are detailed descriptions of each notebook present in the repository. 
